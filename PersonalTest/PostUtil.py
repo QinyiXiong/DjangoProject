@@ -1,8 +1,7 @@
 #!/usr/bin/python3# -*-
 # coding: utf-8 -*-
 # @Time : 2020/8/17 9:27 上午
-# @Author : 覃
-# @Email : 972354178@qq.com
+# @Author : error:8
 # @File : PostUtil.py
 # @Project : DjangoProject
 # @Describe : Post 请求工具
