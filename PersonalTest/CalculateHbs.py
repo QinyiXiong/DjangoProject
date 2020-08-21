@@ -19,6 +19,7 @@ def getInfoFromHbs(url, param):
     :return: data
     """
     reStr = PostUtil.postJSON(url, param)
+    print(reStr)
     data = json.loads(reStr).get("data")
     return data
 
